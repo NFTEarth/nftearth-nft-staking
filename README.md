@@ -1,5 +1,7 @@
 # NFTEarth Staking Rewards Program
 
+The app is live at https://nftstaking.nftearth.exchange/
+
 ## Introduction
 
 This app is for holders of the Earthling NFT to be eligible to stake and earn $NFTE tokens as part of the Staking Rewards program. 
