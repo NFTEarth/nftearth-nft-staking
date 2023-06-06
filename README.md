@@ -1,6 +1,9 @@
 # NFTEarth Staking Rewards Program
 
-The app is live at https://nftstaking.nftearth.exchange/
+The app is live at [NFT Staking Rewards](https://stake.nftearth.exchange/)
+
+
+URL: https://stake.nftearth.exchange/
 
 ## Introduction
 
