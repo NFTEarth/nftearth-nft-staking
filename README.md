@@ -1,8 +1,11 @@
-# NFTEarth NFT Staking Rewards
+# NFTEarth Staking Rewards Program
 
 ## Introduction
 
-This app is for holders NFTEarth community members to earn $NFTE token rewards for staking their NFT!
+This app is for holders of the Earthling NFT to be eligible to stake and earn $NFTE tokens as part of the Staking Rewards program. 
+
+![image](https://github.com/NFTEarth/nftearth-nft-staking/assets/29180454/c04a7cd3-7158-482e-a860-d2cd83a46fb0)
+
 
 
 ## Join our community!
